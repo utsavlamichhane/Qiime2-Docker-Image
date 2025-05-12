@@ -2,7 +2,10 @@
 
 Put the Dockerfile and the input (paired_end.qza)  in the same directory.
 
-I have uploaded both files to this repo, you can pull it to your mac. 
+I have uploaded both files to this repo, you can pull it to your mac.Download the pairedend qza file as an examplefrom here: https://drive.google.com/file/d/1R20wyjx0Dd2tcWmL_jK-ePqcouu36sqM/view?usp=sharing
+
+Also the Dockerfile is here: https://drive.google.com/file/d/1a6bssYoRUqCYlFGJrIMduMM_gsGc9rMJ/view?usp=sharing
+
 
 **Step 2**
 
