@@ -58,4 +58,6 @@ After the code finishes you should see the three outs in your working directory 
 Exit the container.
 
 Just type exit in the terminal and press return.
-
+```
+exit
+```
